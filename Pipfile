@@ -9,6 +9,7 @@ verify_ssl = true
 pandas = "*"
 seaborn = "*"
 numpy = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.8"
